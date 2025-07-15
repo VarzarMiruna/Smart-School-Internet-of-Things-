@@ -1,2 +1,2 @@
 # Smart-School-Internet-of-Things-
-Smart School Internet of Things: Cisco, tinkercad, node.js, javascript, arduino uno, sensors
+SmartSchool IoT is a classroom-scale prototype that connects Arduino sensor nodes and actuators to a Node.js MQTT hub and a PostgreSQL web dashboard for real-time gas-sensor logging, complete with Cisco Packet Tracer and Tinkercad simulations.
